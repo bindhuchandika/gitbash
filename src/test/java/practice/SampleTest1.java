@@ -40,7 +40,6 @@ public void m1()
 	driver.get(URL);
 	driver.findElement(By.name("user_name")).sendKeys(UN);
 	driver.findElement(By.name("user_password")).sendKeys(UN);
-	//pulled
-	//pushed
 }
 }
+//push
